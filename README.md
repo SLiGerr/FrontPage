@@ -15,4 +15,4 @@
 
 ### Contacts
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/slgerr)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=318CE7)](https://t.me/SLiGerr)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=318CE7)](https://t.me/BoltTalking)
