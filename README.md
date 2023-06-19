@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=SLiGerr)
 
 [![mg_demo](https://user-images.githubusercontent.com/23235631/216157729-1e53c8cf-dde4-4697-8b4c-bebf0ab24de9.png)](https://store.steampowered.com/app/1968710)
-> **MY WORK IN PROGRESS: [MEATGRINDER](https://store.steampowered.com/app/1968710)**
+> **MY RECENT RELEASED GAME: [MEATGRINDER](https://store.steampowered.com/app/1968710)**
 
 ### Building a sentry on... 
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
