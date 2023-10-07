@@ -1,7 +1,6 @@
 # Hi, i'm Max <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=SLiGerr)
-
-[![mg_demo](https://user-images.githubusercontent.com/23235631/216157729-1e53c8cf-dde4-4697-8b4c-bebf0ab24de9.png)](https://store.steampowered.com/app/1968710)
+[![mg release](https://user-images.githubusercontent.com/23235631/273385121-e0dc4543-6cc1-41b3-b634-adf7b9566481.png)](https://store.steampowered.com/app/1968710)
 > **MY RECENT RELEASED GAME: [MEATGRINDER](https://store.steampowered.com/app/1968710)**
 
 ### Building a sentry on... 
