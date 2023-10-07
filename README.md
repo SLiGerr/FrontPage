@@ -13,9 +13,11 @@
 ![Adobe Premiere](https://img.shields.io/badge/-Adobe_Premiere_Pro-090909?style=for-the-badge&logo=adobepremierepro&logoColor=FF50A8)
 
 ### Find me here: 
-[![BandCamp](https://img.shields.io/badge/-Bandcamp-090909?style=for-the-badge&logo=bandcamp&logoColor=318CE7)](https://bolttalk.bandcamp.com/community)
 [![Telegram](https://img.shields.io/badge/-My_Telegram-090909?style=for-the-badge&logo=telegram&logoColor=318CE7)](https://t.me/BoltTalking) 
 [![TelegramGroup](https://img.shields.io/badge/-Bolttalk_Group-090909?style=for-the-badge&logo=telegram&logoColor=318CE7)](https://t.me/bolttalk)
+[![YouTube](https://img.shields.io/badge/-My_YouTube-090909?style=for-the-badge&logo=youtube&logoColor=c4302b)](https://www.youtube.com/@bolttalking) 
+[![Twitch](https://img.shields.io/badge/-My_Twitch-090909?style=for-the-badge&logo=twitch&logoColor=6441a5)](https://www.twitch.tv/bolttalk) 
+[![BandCamp](https://img.shields.io/badge/-Bandcamp-090909?style=for-the-badge&logo=bandcamp&logoColor=ffffff)](https://bolttalk.bandcamp.com/community)
 
 ### My old projects: 
 [![Beatmasters](https://img.shields.io/badge/-Beatmasters-090909?style=for-the-badge&logo=AppStore)](https://apps.apple.com/ru/app/beatmasters/id1490407365)
