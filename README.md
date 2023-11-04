@@ -36,6 +36,12 @@ I love making games & tools in Unity!
 [![Twitch](https://img.shields.io/badge/-Twitch-090909?style=for-the-badge&logo=twitch&logoColor=6441a5)](https://www.twitch.tv/bolttalk) 
 [![BandCamp](https://img.shields.io/badge/-Bandcamp-090909?style=for-the-badge&logo=bandcamp&logoColor=ffffff)](https://bolttalk.bandcamp.com/community)
 
+--
+
+![](https://komarev.com/ghpvc/?username=SLiGerr)
+
+--
+
 </td></tr></table>
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SLiGerr&count_private=true&theme=tokyonight&showicons=true)]() -->
